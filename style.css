@@ -5,7 +5,9 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #87CEEB; /* Голубой фон */
+    background-image: url('marvel_image.jpg'); 
+    background-size: cover; 
+    background-position: center; 
     overflow: hidden;
 }
 

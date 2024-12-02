@@ -6,9 +6,9 @@ canvas.height = 400;
 
 // Загрузка изображений
 const heroImg = new Image();
-heroImg.src = "hero.png"; // Добавьте картинку героя в папку с игрой
+heroImg.src = "hero.png"; 
 const enemyImg = new Image();
-enemyImg.src = "enemy.png"; // Добавьте картинку врага в папку с игрой
+enemyImg.src = "enemy.png"; 
 
 // Настройка игрока
 const player = {
